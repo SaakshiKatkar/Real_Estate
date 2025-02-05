@@ -12,7 +12,7 @@ import DashboardLayout from './components/DashBoardLayout';
 // import ContactPage from './components/ContactPage';
 import PropertyDetailsPage from './components/PropertyDetailsPage';
 import PropertiesList from './components/PropertiesList';
-
+//nr bhfhj
 const App = () => {
   return (
     <ChakraProvider>
